@@ -1,0 +1,38 @@
+.jumbotron {
+	background-image: url(../img/evosfams.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 200px;
+	padding-bottom: 35%;
+}
+
+#about {
+	background: linear-gradient(#8fc8eb, #4675c0);
+}
+
+#team {
+	background: linear-gradient(#4675c0, #8fc8eb);
+}
+
+.card-wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.card-body {
+	background-color: #303030;
+	color: #fff;
+}
+
+#achievement {
+	background: linear-gradient(#8fc8eb, #4675c0);
+}
+
+#contact {
+	background: linear-gradient(#4675c0, #8fc8eb);
+}
+
+#pesan {
+	resize: none;
+}
